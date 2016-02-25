@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <pickBest>false</pickBest>
+        <target>android-23</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_start.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f3aa62a-220c-4938-911a-66a23088e0a7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/App$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/App$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/App$CallReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/CrashHandler$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/CrashHandler$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/CrashHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/GloableParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyConnectionListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyConnectionListener$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyConnectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyGroupChangeListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyGroupChangeListener$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyGroupChangeListener$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyGroupChangeListener$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$MyGroupChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity$NewMessageBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/PushMessageReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/SplashActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/SplashActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/SplashActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/SplashActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/AlbumAdpter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/ContactAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/FromContactAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/FromContactAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/FromContactAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/MyGroupAdpter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/MyGroupAdpter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewFriendsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewFriendsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewFriendsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewMsgAdpter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewMsgAdpter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/NewMsgAdpter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/PublishMsgAdpter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/PublishMsgDetailAdpter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/adpter/PublishMsgDetailAdpter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/bean/GroupInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/bean/InviteMessage$InviteMesageStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/bean/InviteMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/bean/PublicMsgInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/bean/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/AlertDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/BaiduMapActivity$BaiduSDKReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/BaiduMapActivity$MyLocationListenner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/BaiduMapActivity$NotifyLister.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/BaiduMapActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/CallActivity$CallingState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/CallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$GroupListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$GroupListener$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$GroupListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$ListScrollListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$NewMessageBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity$PressToSpeakListen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ChatActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ContextMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$2$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowBigImage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity$1$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity$1$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowNormalFileActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowVideoActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowVideoActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowVideoActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowVideoActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/ShowVideoActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$localCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity$oppositeCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VideoCallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/VoiceCallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/ExpressionAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/ExpressionPagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$11$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$14$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$14$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$15$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$15$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$15$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$7$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$9$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$9$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$MapClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/MessageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/VoicePlayClickListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/VoicePlayClickListener$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/adpter/VoicePlayClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader$OnImageLoadListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/AsyncImageLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/DownloadImageTask$DownloadFileCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/DownloadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadImageTask$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadImageTask$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadLocalBigImgTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadVideoImageTask$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadVideoImageTask$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/task/LoadVideoImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/CameraHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/CommonUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/Constant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/ImageCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/ImageCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/ImageUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/utils/SmileUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/widght/ExpandGridView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/chat/widght/PasteEditText.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/BASE64.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/BaiduUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/DES.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/ImageUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/NetUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/PingYinUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/PinyinComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/UserUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/common/ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/BaseDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/FlippingLoadingDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/TitleMenu/ActionItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/TitleMenu/TitlePopup$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/TitleMenu/TitlePopup$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/TitleMenu/TitlePopup$OnItemOnClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/TitleMenu/TitlePopup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/dialog/WarnTipDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/net/BaseJsonRes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/net/NetClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/UpdateService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/UpdateService$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/UpdateService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddFromContactActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddFromContactActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$ContactAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity$ContactAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AddGroupChatActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AlbumActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/AlbumActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/FriendMsgActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GetMoneyActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupListActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity$GridAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity$GridAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity$GridAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity$GridAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/GroupSettingActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity$TextChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/LoginActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/MyCodeActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/NewFriendsListActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/PublicActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/PublishMsgDetailActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/PublishMsgListActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/PublishUserListActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$MyCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$TelTextChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity$TextChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/RegisterActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/SearchActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/SetMoneyActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/SettingActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/ShareActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/WebViewActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/WebViewActivity$MyTimer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/WebViewActivity$WeiboWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/activity/WebViewActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/fragment/Fragment_Dicover.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/fragment/Fragment_Friends.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/fragment/Fragment_Msg$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/fragment/Fragment_Msg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/view/fragment/Fragment_Profile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/FlippingImageView/FlippingImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/FlippingImageView/RotateAnimation$Mode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/FlippingImageView/RotateAnimation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/SideBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/EclairMotionEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/TouchImageView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/TouchImageView$ScaleListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/TouchImageView$Task.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/TouchImageView$TimeHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/TouchImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/TouchImageView/WrapMotionEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SimpleSwipeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$DoubleClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$DragEdge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$OnLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$OnRevealListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$ShowMode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$Status.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$SwipeDenier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$SwipeDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout$SwipeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/SwipeLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/adapters/ArraySwipeAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/adapters/BaseSwipeAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/adapters/CursorSwipeAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/adapters/SimpleCursorSwipeAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/implments/SwipeItemMangerImpl$Mode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/implments/SwipeItemMangerImpl$OnLayoutListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/implments/SwipeItemMangerImpl$SwipeMemory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/implments/SwipeItemMangerImpl$ValueBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/implments/SwipeItemMangerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/interfaces/SwipeAdapterInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/widght/swipe/interfaces/SwipeItemMangerInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/CaptureActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/CaptureActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/CaptureActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/AutoFocusCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/CameraConfigurationManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/CameraManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/FlashlightManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/PlanarYUVLuminanceSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/camera/PreviewCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/CaptureActivityHandler$State.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/CaptureActivityHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/DecodeFormatManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/DecodeHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/DecodeThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/FinishListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/InactivityTimer$DaemonThreadFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/InactivityTimer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents$Encode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents$Scan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents$SearchBookContents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents$Share.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents$WifiConnect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/decoding/Intents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/view/ViewfinderResultPointCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../WeChat/bin/classes/com/juns/wechat/zxing/view/ViewfinderView.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/app_panel_video_icon.9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/app_panel_video_icon.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/SplashActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/chat/ChatActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/chat/ChatActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/net/NetClient.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/net/NetClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/LoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Msg.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Msg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_title.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_title.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeChat/gen/com/juns/wechat/BuildConfig.java" afterPath="$PROJECT_DIR$/../WeChat/gen/com/juns/wechat/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeChat/gen/com/juns/wechat/R.java" afterPath="$PROJECT_DIR$/../WeChat/gen/com/juns/wechat/R.java" />
+    </list>
+    <ignored path="WeChat For Android Studio.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WeChat For Android Studio" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.68">
+              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PushMessageReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/PushMessageReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileInputStream.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FileInputStream.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.5666666">
+              <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilenameFilter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FilenameFilter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.5543478">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactAdapter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/adpter/ContactAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32467532">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileNotFoundException.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FileNotFoundException.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/android/os/Handler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <element signature="e#2957#2958#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/lang/reflect/Method.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.38333333">
+              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplashActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/SplashActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.4375">
+              <caret line="103" column="59" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/chat/ChatActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="615" column="76" selection-start-line="615" selection-start-column="76" selection-end-line="615" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/APP_Code/BaiduMapKit" value="1453555390047" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_bottom.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/type_select_btn.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_title.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/common/NetUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_msg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/net/NetClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/common/Utils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/dialog/TitleMenu/TitlePopup.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Msg.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/PublishMsgListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/juns/wechat/chat/ChatActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 19 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 19 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 19 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 19 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeChat For Android Studio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15795207" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/APP_Code/FanXin-based-HuanXin" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="81CEBME22QAF" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyAvd0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Android Application.mian">
+    <configuration default="false" name="WeChat" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true">
+      <module name="main" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="Please select a project..." />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="Please select a project..." />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="Cloud configuration not specified" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="Cloud configuration not specified" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="mian" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="main" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="Please select a project..." />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="Please select a project..." />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="Cloud configuration not specified" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="Cloud configuration not specified" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.mian" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.WeChat" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.WeChat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f3aa62a-220c-4938-911a-66a23088e0a7" name="Default" comment="" />
+      <created>1454056442704</created>
+      <option name="number" value="Default" />
+      <updated>1454056442704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WeChat - 2016.02.15 at 22h 28m 43s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 10h 42m 02s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 13h 00m 52s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 13h 01m 35s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 13h 02m 22s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 19h 35m 18s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.17 at 23h 32m 54s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.18 at 16h 04m 10s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.19 at 10h 03m 54s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeChat - 2016.02.19 at 12h 06m 51s.xml">
+      <configuration name="WeChat" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.4939302" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3506045" sideWeight="0.4817906" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6605505" sideWeight="0.24170616" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54058725" sideWeight="0.75039494" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.4969651" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8134715" sideWeight="0.75829387" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25569043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39896372" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23748103" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25043178" sideWeight="0.49013656" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/view/ViewGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="769" column="32" selection-start-line="769" selection-start-column="32" selection-end-line="769" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="161" column="31" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/easemobchat_2.1.5.jar!/com/easemob/chat/EMMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="292" column="26" selection-start-line="292" selection-start-column="19" selection-end-line="292" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/easemobchat_2.1.5.jar!/com/easemob/chat/EMChatManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9666667">
+          <caret line="622" column="15" selection-start-line="622" selection-start-column="15" selection-end-line="622" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9833333">
+          <caret line="262" column="25" selection-start-line="262" selection-start-column="25" selection-end-line="262" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/widget/TextView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9833333">
+          <caret line="523" column="22" selection-start-line="523" selection-start-column="22" selection-end-line="523" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en/hx_strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="200" column="0" selection-start-line="200" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-xhdpi/hx_strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="201" column="18" selection-start-line="201" selection-start-column="18" selection-end-line="201" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/easemobchat_2.1.5.jar!/com/easemob/chat/EMConversation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2254" column="21" selection-start-line="2254" selection-start-column="21" selection-end-line="2254" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/widget/AdapterView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="221" column="21" selection-start-line="221" selection-start-column="21" selection-end-line="221" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Friends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Dicover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/java/util/Collections.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9833333">
+          <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/common/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/org/apache/http/message/BasicNameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9833333">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_listview.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_title.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon_chat_user.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/adpter/PublishMsgDetailAdpter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/widget/ListView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/adpter/PublishMsgAdpter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/PublishMsgDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/activity/PublishMsgListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="553" column="16" selection-start-line="553" selection-start-column="16" selection-end-line="553" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chatting_setmode_voice_btn_normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/adpter/NewMsgAdpter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2923976">
+          <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/view/fragment/Fragment_Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../libs/android-support/android-support-v4.jar!/android/support/v4/app/Fragment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="221" column="34" selection-start-line="221" selection-start-column="34" selection-end-line="221" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xhdpi/activity_chat.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="109" column="66" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1833333">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <element signature="e#2827#2828#0" expanded="true" />
+            <element signature="e#2878#2879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-20/android.jar!/java/io/FileInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-20/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3603" column="16" selection-start-line="3603" selection-start-column="16" selection-end-line="3603" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#229233#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#35525#35526#0" expanded="false" />
+            <element signature="e#35586#35587#0" expanded="false" />
+            <element signature="e#36086#36101#0" expanded="false" />
+            <element signature="e#36861#36862#0" expanded="false" />
+            <element signature="e#36891#36892#0" expanded="false" />
+            <element signature="e#37287#37288#0" expanded="false" />
+            <element signature="e#37322#37323#0" expanded="false" />
+            <element signature="e#37430#37431#0" expanded="false" />
+            <element signature="e#37465#37466#0" expanded="false" />
+            <element signature="e#37568#37569#0" expanded="false" />
+            <element signature="e#37606#37607#0" expanded="false" />
+            <element signature="e#37724#37725#0" expanded="false" />
+            <element signature="e#37754#37755#0" expanded="false" />
+            <element signature="e#37868#37869#0" expanded="false" />
+            <element signature="e#37905#37906#0" expanded="false" />
+            <element signature="e#38254#38255#0" expanded="false" />
+            <element signature="e#38284#38285#0" expanded="false" />
+            <element signature="e#39539#39540#0" expanded="false" />
+            <element signature="e#39612#39613#0" expanded="false" />
+            <element signature="e#45304#45305#0" expanded="false" />
+            <element signature="e#45356#45357#0" expanded="false" />
+            <element signature="e#45416#45417#0" expanded="false" />
+            <element signature="e#45473#45474#0" expanded="false" />
+            <element signature="e#48349#48350#0" expanded="false" />
+            <element signature="e#48379#48380#0" expanded="false" />
+            <element signature="e#59982#59983#0" expanded="false" />
+            <element signature="e#60010#60011#0" expanded="false" />
+            <element signature="e#60779#60780#0" expanded="false" />
+            <element signature="e#60806#60807#0" expanded="false" />
+            <element signature="e#68504#68505#0" expanded="false" />
+            <element signature="e#68545#68546#0" expanded="false" />
+            <element signature="e#72827#72828#0" expanded="false" />
+            <element signature="e#72854#72855#0" expanded="false" />
+            <element signature="e#74534#74535#0" expanded="false" />
+            <element signature="e#74561#74562#0" expanded="false" />
+            <element signature="e#76532#76533#0" expanded="false" />
+            <element signature="e#76565#76566#0" expanded="false" />
+            <element signature="e#83984#83985#0" expanded="false" />
+            <element signature="e#84035#84036#0" expanded="false" />
+            <element signature="e#87594#87595#0" expanded="false" />
+            <element signature="e#87648#87649#0" expanded="false" />
+            <element signature="e#95129#95130#0" expanded="false" />
+            <element signature="e#95157#95158#0" expanded="false" />
+            <element signature="e#96537#96538#0" expanded="false" />
+            <element signature="e#96565#96566#0" expanded="false" />
+            <element signature="e#97478#97479#0" expanded="false" />
+            <element signature="e#97506#97507#0" expanded="false" />
+            <element signature="e#98972#98973#0" expanded="false" />
+            <element signature="e#99000#99001#0" expanded="false" />
+            <element signature="e#100230#100231#0" expanded="false" />
+            <element signature="e#100258#100259#0" expanded="false" />
+            <element signature="e#104764#104765#0" expanded="false" />
+            <element signature="e#104788#104789#0" expanded="false" />
+            <element signature="e#109008#109009#0" expanded="false" />
+            <element signature="e#109035#109036#0" expanded="false" />
+            <element signature="e#114236#114237#0" expanded="false" />
+            <element signature="e#114309#114310#0" expanded="false" />
+            <element signature="e#120859#120860#0" expanded="false" />
+            <element signature="e#120896#120897#0" expanded="false" />
+            <element signature="e#122000#122001#0" expanded="false" />
+            <element signature="e#122044#122045#0" expanded="false" />
+            <element signature="e#123378#123379#0" expanded="false" />
+            <element signature="e#123447#123448#0" expanded="false" />
+            <element signature="e#123625#123626#0" expanded="false" />
+            <element signature="e#123689#123690#0" expanded="false" />
+            <element signature="e#124915#124916#0" expanded="false" />
+            <element signature="e#124972#124973#0" expanded="false" />
+            <element signature="e#125313#125314#0" expanded="false" />
+            <element signature="e#125370#125371#0" expanded="false" />
+            <element signature="e#125677#125678#0" expanded="false" />
+            <element signature="e#125715#125716#0" expanded="false" />
+            <element signature="e#125855#125856#0" expanded="false" />
+            <element signature="e#125918#125919#0" expanded="false" />
+            <element signature="e#127521#127522#0" expanded="false" />
+            <element signature="e#127548#127549#0" expanded="false" />
+            <element signature="e#129236#129237#0" expanded="false" />
+            <element signature="e#129277#129278#0" expanded="false" />
+            <element signature="e#129471#129472#0" expanded="false" />
+            <element signature="e#129516#129517#0" expanded="false" />
+            <element signature="e#130731#130732#0" expanded="false" />
+            <element signature="e#130774#130775#0" expanded="false" />
+            <element signature="e#131228#131229#0" expanded="false" />
+            <element signature="e#131264#131265#0" expanded="false" />
+            <element signature="e#140389#140390#0" expanded="false" />
+            <element signature="e#140435#140436#0" expanded="false" />
+            <element signature="e#140942#140943#0" expanded="false" />
+            <element signature="e#141002#141003#0" expanded="false" />
+            <element signature="e#142166#142167#0" expanded="false" />
+            <element signature="e#142220#142221#0" expanded="false" />
+            <element signature="e#147565#147566#0" expanded="false" />
+            <element signature="e#147620#147621#0" expanded="false" />
+            <element signature="e#153827#153828#0" expanded="false" />
+            <element signature="e#153870#153871#0" expanded="false" />
+            <element signature="e#155673#155674#0" expanded="false" />
+            <element signature="e#155719#155720#0" expanded="false" />
+            <element signature="e#164299#164300#0" expanded="false" />
+            <element signature="e#164361#164362#0" expanded="false" />
+            <element signature="e#177971#177972#0" expanded="false" />
+            <element signature="e#178003#178004#0" expanded="false" />
+            <element signature="e#178182#178183#0" expanded="false" />
+            <element signature="e#178215#178216#0" expanded="false" />
+            <element signature="e#178780#178781#0" expanded="false" />
+            <element signature="e#178826#178827#0" expanded="false" />
+            <element signature="e#182253#182254#0" expanded="false" />
+            <element signature="e#182277#182278#0" expanded="false" />
+            <element signature="e#191271#191272#0" expanded="false" />
+            <element signature="e#191304#191305#0" expanded="false" />
+            <element signature="e#192030#192031#0" expanded="false" />
+            <element signature="e#192100#192101#0" expanded="false" />
+            <element signature="e#193536#193537#0" expanded="false" />
+            <element signature="e#193578#193579#0" expanded="false" />
+            <element signature="e#193752#193753#0" expanded="false" />
+            <element signature="e#193781#193782#0" expanded="false" />
+            <element signature="e#193821#193822#0" expanded="false" />
+            <element signature="e#193855#193856#0" expanded="false" />
+            <element signature="e#198368#198369#0" expanded="false" />
+            <element signature="e#198430#198431#0" expanded="false" />
+            <element signature="e#198780#198781#0" expanded="false" />
+            <element signature="e#198839#198840#0" expanded="false" />
+            <element signature="e#199972#199973#0" expanded="false" />
+            <element signature="e#199999#200000#0" expanded="false" />
+            <element signature="e#217111#217112#0" expanded="false" />
+            <element signature="e#217156#217157#0" expanded="false" />
+            <element signature="e#218846#218847#0" expanded="false" />
+            <element signature="e#218878#218879#0" expanded="false" />
+            <element signature="e#221235#221236#0" expanded="false" />
+            <element signature="e#221311#221312#0" expanded="false" />
+            <element signature="e#227394#227395#0" expanded="false" />
+            <element signature="e#227425#227426#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.68">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4375">
+          <caret line="103" column="59" selection-start-line="103" selection-start-column="59" selection-end-line="103" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/app_panel_video_icon.9.png">
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-20/java/io/FileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-20/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73239434">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-20/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.73913044">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chatting_biaoqing_btn_enable.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/chat/ChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="615" column="76" selection-start-line="615" selection-start-column="76" selection-end-line="615" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/PushMessageReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <element signature="e#2957#2958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.38333333">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FileInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5666666">
+          <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FileNotFoundException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/platforms/android-19/android.jar!/java/io/FilenameFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5543478">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/juns/wechat/adpter/ContactAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32467532">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>aiCharts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gradle-wrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
